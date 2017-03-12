@@ -1,0 +1,24 @@
+{
+  "name": "Request-Header-Parser-FCC",
+  "version": "1.0.0",
+  "description": "Outputs ip, language and operating system name and version.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushboo13/Request-Header-Parser-FCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushboo13/Request-Header-Parser-FCC/issues"
+  },
+  "homepage": "https://github.com/khushboo13/Request-Header-Parser-FCC#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ua-parser-js": "^0.7.12"
+  }
+}
